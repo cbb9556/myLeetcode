@@ -1,0 +1,1 @@
+https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/solution/fen-qing-kuang-tao-lun-python3-by-smoon1989/

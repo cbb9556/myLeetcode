@@ -1,0 +1,1 @@
+https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/solution/cyi-ci-bian-li-he-fen-zhi-suan-fa-by-forfut/
