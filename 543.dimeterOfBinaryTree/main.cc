@@ -47,13 +47,14 @@ void print_bfs(TreeNode* p)
 
 int main()
 {
-    std::vector<int> vec{1,2,3,4,5};
+    std::vector<int> vec = {1,2,3,4,5};
     TreeNode* p = createBinaryTree(vec.begin(), vec.end()); 
     Solution s;
     print_bfs(p);
     std::cout << s.diameterOfBinaryTree(p) << std::endl;
     return 0;
 }
+
 
 
 
